@@ -1,5 +1,7 @@
 # Darkstar
 
+[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.guv/darkstar.svg)](https://clojars.org/org.clojars.guv/darkstar)
+
 Darkstar packages Vega `5.10.1` and Vega-lite `4.10.1` as a single
 dependency Clojure library with a very small API surface.
 
